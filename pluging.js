@@ -412,9 +412,3 @@ const GUI = {
 		return element;
 	}
 };
-
-
-
-
-
-client.login("NDU3Mjg5NzU0MjUwMTgyNjY3.YL5aXw.2m9gz43Jb2u1-VEoYf5C2eZIFuQ")
